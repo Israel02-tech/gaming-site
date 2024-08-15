@@ -1,0 +1,373 @@
+/*first picture*/
+
+a:link{
+  text-decoration: none;
+  
+
+}
+a:link b{
+  text-decoration: none;
+  opacity: 0.9;
+
+}
+
+div.gallery1{
+  margin: 20px;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+  display:inline-block;
+  width: 320px;
+  height: 482px;
+  background-color: #0d17b6;
+}
+
+div.gallery1:hover {
+  border: 4px solid steelblue;
+}
+
+div.gallery1 img {
+  border-radius: 8px;
+  width: 320px;
+  height: 478px;
+}
+
+.desc1 {
+margin:2px;
+  padding: 10px;
+ font-family: Georgia, serif;
+  font-size: 20px;
+  color: blue;
+  text-align: center;
+  text-shadow:1px 1px blue ;
+
+}
+
+/*second picture*/
+
+div.gallery2{
+  margin: 20px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  display:inline-block;
+  width: 322px;
+  height: 482px;
+  background-color: #bd186b;
+}
+
+div.gallery2:hover {
+  border: 4px solid steelblue;
+}
+
+div.gallery2 img {
+  width: 320px;
+  height: 478px;
+  border-radius: 8px;
+}
+
+.desc2 {
+margin:2px;
+  padding: 10px;
+   font-family: Georgia, serif;
+  font-size: 20px;
+  color: blue;
+  text-align: center;
+  text-shadow:1px 1px blue ;
+
+}
+
+/*Third Image*/
+
+div.gallery3{
+  margin: 20px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  display:inline-block;
+  width: 327px;
+  height:484px;
+  background-color:#8f0c0c;
+}
+
+div.gallery3:hover {
+  border: 4px solid steelblue;
+}
+
+div.gallery3 img {
+  width: 325px;
+  height: 480px;
+  border-radius: 8px;
+}
+
+.desc3 {
+margin:2px;
+  padding: 10px;
+   font-family: Georgia, serif;
+  font-size: 20px;
+  color: blue;
+  text-align: center;
+  text-shadow:1px 1px blue ;
+
+}
+
+/*Fourth Image*/
+
+div.gallery4{
+  margin: 20px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  display:inline-block;
+  width: 320px;
+  height: 484px;
+   background-color:#916113;
+}
+
+div.gallery4:hover {
+  border: 4px solid steelblue;
+}
+
+div.gallery4 img {
+  width: 320px;
+  height: 480px;
+  border-radius: 8px;
+}
+
+.desc4{
+margin:3px;
+  padding: 10px;
+   font-family: Georgia, serif;
+  font-size: 20px;
+  color: blue;
+  text-align: center;
+  text-shadow:1px 1px blue ;
+
+}
+
+/*Fifth Image*/
+
+div.gallery5{
+  margin: 20px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  display:inline-block;
+  width: 320px;
+  height: 484px;
+  background-color:#7a7977 ;
+}
+
+div.gallery5:hover {
+  border: 4px solid steelblue;
+}
+
+div.gallery5 img {
+  width: 320px;
+  height: 480px;
+  border-radius: 8px;
+}
+
+.desc5{
+margin:3px;
+  padding: 10px;
+   font-family: Georgia, serif;
+  font-size: 20px;
+  color: blue;
+  text-align: center;
+  text-shadow:1px 1px blue ;
+
+}
+
+/*sixth Image*/
+
+div.gallery6{
+  margin: 20px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  display:inline-block;
+  width: 320px;
+  height: 484px;
+  background-color:#7a7977;
+
+}
+
+div.gallery6:hover {
+  border: 4px solid steelblue;
+}
+
+div.gallery6 img {
+  width: 320px;
+  height: 480px;
+  border-radius: 8px;
+}
+
+.desc6{
+margin:3px;
+  padding: 10px;
+   font-family: Georgia, serif;
+  font-size: 20px;
+  color: blue;
+  text-align: center;
+  text-shadow:1px 1px blue ;
+
+}
+
+/*seventh Image*/
+
+div.gallery7{
+  margin: 20px;
+  border:2px solid #ccc;
+  border-radius: 8px;
+  display:inline-block;
+  width: 320px;
+  height: 484px;
+  background-color:#1e894b ;
+}
+
+div.gallery7:hover {
+  border: 4px solid steelblue;
+}
+
+div.gallery7 img {
+  width: 320px;
+  height: 480px;
+  border-radius: 8px;
+}
+
+.desc7 {
+margin:2px;
+  padding: 10px;
+   font-family: Georgia, serif;
+  font-size: 20px;
+  color: blue;
+  text-align: center;
+  text-shadow:1px 1px blue ;
+
+}
+
+/*Eight Image*/
+
+div.gallery8{
+  margin: 20px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  display:inline-block;
+  width: 320px;
+  height: 485.2px;
+  background-color: #132b1d;
+}
+
+div.gallery8:hover {
+  border: 4px solid steelblue;
+}
+
+div.gallery8 img {
+  width: 320px;
+  height: 483px;
+  border-radius: 8px;
+}
+
+.desc8{
+margin:2px;
+  padding: 10px;
+
+  font-family: Georgia, serif;
+  font-size: 20px;
+  color: blue;
+  text-align: center;
+  text-shadow:1px 1px blue ;
+
+
+}
+
+/*Nineth Image*/
+
+div.gallery9{
+  margin: 20px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  display:inline-block;
+  width: 332px;
+  height: 484px;
+  background-color: #11849b;
+}
+
+div.gallery9:hover {
+  border: 4px solid steelblue;
+  
+
+}
+
+div.gallery9 img {
+  width: 332px;
+  height: 480px;
+   border-radius: 8px;
+}
+
+.desc9{
+margin:2px;
+  padding: 15px;
+font-family: Georgia, serif;
+  font-size: 20px;
+  color: blue;
+  text-align: center;
+  text-shadow:1px 1px blue ;
+}
+
+
+/*PageNumbering*/
+
+.center{
+  text-align: center;
+}
+.pagination {
+  display: inline-block;
+}
+
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  border: 1px solid #ddd;
+}
+
+.pagination a.active {
+  background-color: #6c66ec;
+  color: white;
+  border: 1px solid #4CAF50;
+}
+
+.pagination a:hover:not(.active) {background-color: #b3b3b3;}
+
+.pagination a:first-child {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.pagination a:last-child {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.theslide{
+  margin-left: 300px;
+margin-right: 300px;
+
+}
+.theslidebody{
+  background-color:lightslategrey ;
+}
+.conta{
+ background-color: rgba(251, 251, 251, 0.2);
+}
+.paga{
+  background-color:#6c66ec;
+  opacity: 0.9;
+}
+.halfb{
+   background-color: lightslategrey;
+}
+h5{
+  opacity: 0.4;
+  font-size: 15.5px;
+}
+strong{
+  opacity: 0.6;
+}
+

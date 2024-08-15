@@ -1,0 +1,363 @@
+/*first picture*/
+
+a:link{
+  text-decoration: none;
+}
+
+a:link b{
+  text-decoration: none;
+  opacity: 0.9;
+}
+div.gallery10{
+  margin: 20px;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+  display:inline-block;
+  width: 320px;
+  height: 482px;
+  background-color: #0d17b6;
+}
+
+div.gallery10:hover {
+  border: 4px solid steelblue;
+}
+
+div.gallery10 img {
+  border-radius: 8px;
+  width: 320px;
+  height: 478px;
+}
+
+.desc10 {
+margin:2px;
+  padding: 10px;
+ font-family: Georgia, serif;
+  font-size: 20px;
+  color: blue;
+  text-align: center;
+  text-shadow:1px 1px blue ;
+
+}
+
+/*second picture*/
+
+div.gallery11{
+  margin: 20px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  display:inline-block;
+  width: 322px;
+  height: 482px;
+  background-color: #bd186b;
+}
+
+div.gallery11:hover {
+  border: 4px solid steelblue;
+}
+
+div.gallery11 img {
+  width: 320px;
+  height: 478px;
+  border-radius: 8px;
+}
+
+.desc11 {
+margin:2px;
+  padding: 10px;
+   font-family: Georgia, serif;
+  font-size: 20px;
+  color: blue;
+  text-align: center;
+  text-shadow:1px 1px blue ;
+
+}
+
+/*Third Image*/
+
+div.gallery12{
+  margin: 20px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  display:inline-block;
+  width: 327px;
+  height:484px;
+  background-color:#8f0c0c;
+}
+
+div.gallery12hover {
+  border: 4px solid steelblue;
+}
+
+div.gallery12 img {
+  width: 325px;
+  height: 480px;
+  border-radius: 8px;
+}
+
+.desc12 {
+margin:2px;
+  padding: 10px;
+   font-family: Georgia, serif;
+  font-size: 20px;
+  color: blue;
+  text-align: center;
+  text-shadow:1px 1px blue ;
+
+}
+
+/*Fourth Image*/
+
+div.gallery13{
+  margin: 20px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  display:inline-block;
+  width: 320px;
+  height: 484px;
+   background-color:#916113;
+}
+
+div.gallery13:hover {
+  border: 4px solid steelblue;
+}
+
+div.gallery13 img {
+  width: 320px;
+  height: 480px;
+  border-radius: 8px;
+}
+
+.desc13{
+margin:3px;
+  padding: 10px;
+   font-family: Georgia, serif;
+  font-size: 20px;
+  color: blue;
+  text-align: center;
+  text-shadow:1px 1px blue ;
+
+}
+
+/*Fifth Image*/
+
+div.gallery14{
+  margin: 20px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  display:inline-block;
+  width: 320px;
+  height: 484px;
+  background-color:#7a7977 ;
+}
+
+div.gallery14:hover {
+  border: 4px solid steelblue;
+}
+
+div.gallery14 img {
+  width: 320px;
+  height: 480px;
+  border-radius: 8px;
+}
+
+.desc14{
+margin:3px;
+  padding: 10px;
+   font-family: Georgia, serif;
+  font-size: 20px;
+  color: blue;
+  text-align: center;
+  text-shadow:1px 1px blue ;
+
+}
+
+/*sixth Image*/
+
+div.gallery15{
+  margin: 20px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  display:inline-block;
+  width: 320px;
+  height: 484px;
+  background-color:#7a7977;
+
+}
+
+div.gallery15:hover {
+  border: 4px solid steelblue;
+}
+
+div.gallery15 img {
+  width: 320px;
+  height: 480px;
+  border-radius: 8px;
+}
+
+.desc15{
+margin:3px;
+  padding: 10px;
+   font-family: Georgia, serif;
+  font-size: 20px;
+  color: blue;
+  text-align: center;
+  text-shadow:1px 1px blue ;
+
+}
+
+/*seventh Image*/
+
+div.gallery16{
+  margin: 20px;
+  border:2px solid #ccc;
+  border-radius: 8px;
+  display:inline-block;
+  width: 320px;
+  height: 484px;
+  background-color:#1e894b ;
+}
+
+div.gallery16:hover {
+  border: 4px solid steelblue;
+}
+
+div.gallery16 img {
+  width: 320px;
+  height: 480px;
+  border-radius: 8px;
+}
+
+.desc16 {
+margin:2px;
+  padding: 10px;
+   font-family: Georgia, serif;
+  font-size: 20px;
+  color: blue;
+  text-align: center;
+  text-shadow:1px 1px blue ;
+
+}
+
+/*Eight Image*/
+
+div.gallery17{
+  margin: 20px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  display:inline-block;
+  width: 320px;
+  height: 485.2px;
+  background-color: #132b1d;
+}
+
+div.gallery17:hover {
+  border: 4px solid steelblue;
+}
+
+div.gallery17 img {
+  width: 320px;
+  height: 483px;
+  border-radius: 8px;
+}
+
+.desc17{
+margin:2px;
+  padding: 10px;
+
+  font-family: Georgia, serif;
+  font-size: 20px;
+  color: blue;
+  text-align: center;
+  text-shadow:1px 1px blue ;
+
+
+}
+
+/*Nineth Image*/
+
+div.gallery18{
+  margin: 20px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  display:inline-block;
+  width: 332px;
+  height: 484px;
+  background-color: #11849b;
+}
+
+div.gallery18:hover {
+  border: 4px solid steelblue;
+  
+
+}
+
+div.gallery18 img {
+  width: 332px;
+  height: 480px;
+   border-radius: 8px;
+}
+
+.desc18{
+margin:2px;
+  padding: 15px;
+font-family: Georgia, serif;
+  font-size: 20px;
+  color: blue;
+  text-align: center;
+  text-shadow:1px 1px blue ;
+}
+
+
+/*PageNumbering*/
+
+.center{
+  text-align: center;
+}
+.pagination {
+  display: inline-block;
+}
+
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  border: 1px solid #ddd;
+}
+
+.pagination a.active {
+  background-color: #6c66ec;
+  color: white;
+  border: 1px solid #4CAF50;
+}
+
+.pagination a:hover:not(.active) {background-color: #b3b3b3;}
+
+.pagination a:first-child {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.pagination a:last-child {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.theslide{
+  margin-left: 300px;
+margin-right: 300px;
+
+}
+.theslidebody{
+  background-color:lightslategrey ;
+}
+.conta{
+ background-color: rgba(251, 251, 251, 0.2);
+}
+.paga{
+  background-color:#6c66ec;
+}
+.halfb{
+   background-color: lightslategrey;
+}
+
+
